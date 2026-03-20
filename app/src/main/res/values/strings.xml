@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">App_NutriPlanIA</string>
+    <string name="default_web_client_id">897614672470-nblchd8dnb40rkbrkuirvf2g0i48ltc3.apps.googleusercontent.com</string>
+    <string name="titulo_perfil">Perfil Nutricional</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_peso">Peso (kg)</string>
+    <string name="hint_altura">Altura (m)</string>
+    <string name="hint_objetivo">Objetivo Nutricional</string>
+    <string name="hint_actividad">Nivel de Actividad Física</string>
+    <string name="btn_guardar_perfil">Guardar Perfil</string>
+
+    <!-- Nuevos campos Perfil -->
+    <string name="hint_genero">Género</string>
+    <string name="hint_peso_objetivo">Peso Objetivo (kg)</string>
+    <string name="hint_velocidad">Velocidad del Objetivo</string>
+    <string name="hint_comidas">Comidas al día</string>
+    <string name="hint_tipo_dieta">Tipo de Dieta</string>
+    <string name="hint_variedad">Nivel de Variedad</string>
+    <string name="resultado_calorias">Calorías recomendadas: %s kcal</string>
+
+    <string name="navigation_drawer_open">Abrir menú lateral</string>
+    <string name="navigation_drawer_close">Cerrar menú lateral</string>
+    <!-- Registro Diario -->
+    <string name="titulo_registrar_comida">Registrar Comida</string>
+    <string name="titulo_registrar_actividad">Registrar Actividad</string>
+    <string name="titulo_registrar_agua">Registrar Agua</string>
+    <string name="hint_tipo_comida">Tipo de comida</string>
+    <string name="hint_alimento">Nombre del alimento</string>
+    <string name="hint_calorias">Calorías</string>
+    <string name="hint_proteinas">Proteínas (g)</string>
+    <string name="hint_carbohidratos">Carbohidratos (g)</string>
+    <string name="hint_grasas">Grasas (g)</string>
+    <string name="hint_pasos">Pasos</string>
+    <string name="hint_calorias_quemadas">Calorías quemadas</string>
+    <string name="hint_tipo_actividad">Tipo de actividad</string>
+    <string name="hint_cantidad_ml">Cantidad (ml)</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>

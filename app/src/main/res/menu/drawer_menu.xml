@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_registrar_comida"
+            android:icon="@drawable/ic_add"
+            android:title="Registrar comida" />
+        <item
+            android:id="@+id/nav_resumen"
+            android:icon="@drawable/ic_resumen"
+            android:title="Ver resumen diario" />
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_perfil"
+            android:title="Perfil nutricional" />
+        <item
+            android:id="@+id/nav_analizar"
+            android:icon="@drawable/ic_search"
+            android:title="Analizar alimento" />
+    </group>
+
+    <item android:title="Sesión">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Cerrar sesión" />
+        </menu>
+    </item>
+</menu>

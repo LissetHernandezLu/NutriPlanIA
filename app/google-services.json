@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897614672470",
+    "project_id": "nutriplania-app",
+    "storage_bucket": "nutriplania-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897614672470:android:1f5205dfed656896bb01f7",
+        "android_client_info": {
+          "package_name": "com.example.app_nutriplania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897614672470-pukorb16bsefmugihk5d4a7m4qos8vfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_nutriplania",
+            "certificate_hash": "3c98101318691a23fd791c73f6db1750716f4583"
+          }
+        },
+        {
+          "client_id": "897614672470-nblchd8dnb40rkbrkuirvf2g0i48ltc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt2gw8b24BlQDCVDzMqhobGvnE6HRhSn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897614672470-nblchd8dnb40rkbrkuirvf2g0i48ltc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
